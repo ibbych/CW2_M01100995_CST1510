@@ -1,0 +1,4 @@
+1. fill out the .gitignore file
+2. use .vnev environment
+3. you can use the database layer online and reference it
+4. use the database layer class to import all csv files
